@@ -7,7 +7,7 @@
     
 }
 body{
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
     text-align: center;
 }
 h1{
@@ -50,7 +50,7 @@ p{
     margin-right: 20px;
 }
 .navbar-brand{
-    font-family: "Comic Sans MS", "Comic Sans", cursive;;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
     font-size: 2.5rem;
     font-weight: bold;
     text-align: center;
@@ -95,7 +95,7 @@ p{
 #testimonials{
     background-color:#D5D8B5 ;
     text-align: center;
-    color: white;
+    color: black;
 }
 em{
     color: black;
